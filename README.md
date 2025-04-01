@@ -1,7 +1,7 @@
 # projeto4-modelagem-de-um-pequeno-sistema-com-uml-e-bpmn
 
 # Projeto de matriz UML e PBMN
-o modelo criado tem como base um usuario reservando uma ou mais reservas de um restaurante.
+o modelo criado tem como base um mercado, ultilizando exemplos de compras
 ## INTEGRANTES DA EQUIPE:
 - Davi Nascimento
 
